@@ -1,4 +1,6 @@
-Memorial Website for Omana Kariampuzha. Adapted from SquareSpace. Hosted on GitHub Pages.
+### Memorial Website for Omana Kariampuzha 
+
+Adapted from SquareSpace. Hosted on GitHub Pages.
 
 www.omanakariampuzha.com
 
